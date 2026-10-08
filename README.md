@@ -34,9 +34,13 @@ prompt-engineering-portfolio/
 └── examples/                  # Примеры использования
 
 📫 Связаться
-Контакты: 
+
+Контакты:
+
 Телефоны: +7 964 474 99 45, +7 996 655 49 36.
-Сообщения: +7 964 474 99 45 Max, Telegram, 
+
+Сообщения: +7 964 474 99 45 Max, Telegram,
+
 Email: Motor-post@mail.ru
  
 
