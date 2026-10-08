@@ -1,3 +1,4 @@
+
 Привет, я Жук Алексей 👋
 Prompt Engineer / SMM-стратег
 Создаю промпт-системы для маркетинга и SMM: A/B-тесты техник, мультимодальность, безопасность, API-интеграции.
@@ -37,3 +38,8 @@ prompt-engineering-portfolio/
 Сообщения: +7 964 474 99 45 Max, Telegram, 
 Email: Motor-post@mail.ru
  
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-green.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
