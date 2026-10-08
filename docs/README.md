@@ -170,7 +170,11 @@ Email: Motor-post@mail.ru
 
 ## 📫 Связаться
 
-[Telegram](https://t.me/Motor-post) · [Email](mailto:Motor-post@mail.ru)
+Телефоны: +7 964 474 99 45, +7 996 655 49 36.
+
+Сообщения: +7 964 474 99 45 Max, Telegram,
+
+Email: Motor-post@mail.ru
 
 ---
 
